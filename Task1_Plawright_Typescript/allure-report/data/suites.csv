@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7759","Step 2 <-> Step 3 Page Navigation","chromium","Mon Feb 17 01:09:24 CET 2025","passed","Mon Feb 17 01:09:31 CET 2025","","navigationTest.spec.ts","",""
+"","10620","E2E Signup Flow - Login to Success","chromium","Mon Feb 17 01:09:24 CET 2025","passed","Mon Feb 17 01:09:34 CET 2025","","e2eTest.spec.ts","",""
+"","7287","Step 3 page UI Validation","chromium","Mon Feb 17 01:09:27 CET 2025","passed","Mon Feb 17 01:09:34 CET 2025","","uiValidationTest.spec.ts","",""
+"","8355","Step 1 <-> Step 2 Page Navigation","chromium","Mon Feb 17 01:09:24 CET 2025","passed","Mon Feb 17 01:09:32 CET 2025","","navigationTest.spec.ts","",""
+"","3119","Login Page - Signup Page Navigation","chromium","Mon Feb 17 01:09:24 CET 2025","passed","Mon Feb 17 01:09:27 CET 2025","","navigationTest.spec.ts","",""
+"","3199","Step 1 page UI Validation","chromium","Mon Feb 17 01:09:24 CET 2025","passed","Mon Feb 17 01:09:27 CET 2025","","uiValidationTest.spec.ts","",""
+"","7109","Step 2 page UI Validation","chromium","Mon Feb 17 01:09:27 CET 2025","passed","Mon Feb 17 01:09:34 CET 2025","","uiValidationTest.spec.ts","",""

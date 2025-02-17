@@ -1,0 +1,10 @@
+{
+    "email": "faker.internet.email()",
+    "password": "faker.internet.password({length: 12, mixCase: true, symbols: true})",
+    "firstName": "faker.person.firstName()",
+    "lastName": "faker.person.lastName()",
+    "phoneNumber": "\"+49 \" + faker.phone.number('### ### ####')",
+    "companyName": "faker.company.name()",
+    "country": "Sweden",
+    "hearAboutUs": "DATEV"
+}
